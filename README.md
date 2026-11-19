@@ -37,8 +37,8 @@ Detailed metrics and visual comparisons are available in the notebook.
 
 ## Repository contents
 
-- `toxic-comment-nlp.ipynb` — notebook containing the analysis, experiments, and results
-- `data.csv` — dataset used by the notebook
+- `toxic-comment-nlp.ipynb` : notebook containing the analysis, experiments, and results
+- `data.csv` : dataset used by the notebook
 
 ## Running the notebook
 
