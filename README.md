@@ -8,6 +8,13 @@ Toxic comments can make online spaces less welcoming and discourage participatio
 
 The notebook covers the workflow from text preprocessing and feature engineering to model evaluation and visual comparison.
 
+## Dataset
+
+This project uses data from the [Jigsaw Toxic Comment Classification Challenge on Kaggle](https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/data).
+
+Download the dataset from Kaggle and place the required CSV in the project folder as `data.csv` before running the notebook.
+
+
 ## Approaches
 
 - **Word embeddings:** Word2Vec, GloVe, and fastText combined with logistic regression and linear SVM classifiers.
